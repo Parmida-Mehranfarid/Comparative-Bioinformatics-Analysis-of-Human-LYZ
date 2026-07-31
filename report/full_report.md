@@ -1,7 +1,7 @@
 # Comparative Bioinformatics Analysis of Human Lysozyme (LYZ)
 
 **Author:** Parmida Mehranfarid — B.Sc. Student, Cellular and Molecular Biology
-**Course:** Bioinformatics Workshop
+
 
 ## Abstract
 
