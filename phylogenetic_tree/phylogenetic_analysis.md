@@ -25,3 +25,4 @@ The human lysozyme protein (NP_000230.1) clusters most closely with the *Acineto
 | Salmonella sp. (partial) | WP_411027131.1 | 1.1421 ⭐ farthest |
 
 **Conclusion:** Distances range from 0.25 to 1.14. This shows that, while lysozyme's function is relatively conserved between humans and bacteria, the amino-acid sequence has diverged considerably over evolutionary time — consistent with the very large evolutionary distance between eukaryotes (human) and prokaryotes (bacteria).
+ 
